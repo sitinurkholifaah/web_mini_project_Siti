@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>API</name>
+   <tag></tag>
+   <elementGuidId>42bdf9da-a2e3-40a8-83cf-6895371592a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[1]/main/div/div/div[2]/div/div[7]/div/div[3]/div[2]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[1]/main/div/div/div[2]/div/div[7]/div/div[3]/div[2]/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>
